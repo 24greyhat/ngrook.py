@@ -1,4 +1,4 @@
-# ngrook.py is a simple BugHunting/Pentesting tool (server html iframes or whatever you want)
+## ngrook.py is a simple BugHunting/Pentesting tool (server html iframes or whatever you want)
 <hr/>
 ### Only dependency is you to ngrok installed and configured!
 <br/>
